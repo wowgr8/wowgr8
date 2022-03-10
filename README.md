@@ -2,11 +2,6 @@
 <h3 align="center">A motivated frontend developer from Portland, OR. Currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a></h3>
 <br/>
 
-<h3 align="left">Holler at ya boy:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cesar-aug-lopez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
-<a href="lopez.cesar.aug@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-
 <h3 align="left" >Coding skills:</h3>
 <p align="left">
 <a><img src="https://img.shields.io/badge/Bootstrap-23cfcf?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
@@ -28,6 +23,11 @@
 <a><img src="https://img.shields.io/badge/React-23cfcf?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-23cfcf?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-23cfcf?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
+
+<h3 align="left">Holler at ya boy:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/cesar-aug-lopez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-23cfcf?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
+<a href="lopez.cesar.aug@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
 <!-- <h3 align="left" >Software Skills:</h3>
 <p align="left">
