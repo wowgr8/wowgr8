@@ -29,12 +29,12 @@
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-23cfcf?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-23cfcf?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
 
-<h3 align="left" >Software Skills:</h3>
+<!-- <h3 align="left" >Software Skills:</h3>
 <p align="left">
 <a><img src="https://img.shields.io/badge/Discord-23cfcf?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 <a><img src="https://img.shields.io/badge/Google%20Meet-23cfcf?style=for-the-badge&logo=google-meet&logoColor=00897B"/></a>
 <a><img src="https://img.shields.io/badge/mac%20os-23cfcf?style=for-the-badge&logo=apple&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Zoom-23cfcf?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a>
+<a><img src="https://img.shields.io/badge/Zoom-23cfcf?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a> -->
 
 <h3 align="left" >Coding stats:</h3>
 
