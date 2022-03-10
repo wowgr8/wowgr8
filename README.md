@@ -4,13 +4,13 @@
 
 <h3 align="left" >Coding skills:</h3>
 <p align="left">
-<a><img src="https://img.shields.io/badge/Bootstrap-23cfcf?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-23cfcf?style=for-the-badge&logo=javascript&logoColor=f0db4f"/></a>
 <a><img src="https://img.shields.io/badge/C%23-23cfcf?style=for-the-badge&logo=c-sharp&logoColor=239120"/></a>
+<a><img src="https://img.shields.io/badge/Bootstrap-23cfcf?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-23cfcf?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/GIT-23cfcf?style=for-the-badge&logo=git&logoColor=E44C30"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-23cfcf?style=for-the-badge&logo=github&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/HTML5-23cfcf?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
-<a><img src="https://img.shields.io/badge/JavaScript-23cfcf?style=for-the-badge&logo=javascript&logoColor=f0db4f"/></a>
 <a><img src="https://img.shields.io/badge/Jest-23cfcf?style=for-the-badge&logo=jest&logoColor=C21325"/></a>
 <a><img src="https://img.shields.io/badge/json-23cfcf?style=for-the-badge&logo=json&logoColor=5E5C5C"/></a>
 <a><img src="https://img.shields.io/badge/jQuery-23cfcf?style=for-the-badge&logo=jquery&logoColor=0769AD"/></a>
