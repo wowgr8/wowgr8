@@ -8,7 +8,7 @@
 <a href="lopez.cesar.aug@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-23cfcf?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
 <h3 align="center" >Coding skills:</h3>
-<p align="left">
+<p align="center">
 <a><img src="https://img.shields.io/badge/Bootstrap-23cfcf?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
 <a><img src="https://img.shields.io/badge/C%23-23cfcf?style=for-the-badge&logo=c-sharp&logoColor=239120"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-23cfcf?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
@@ -30,7 +30,7 @@
 <a><img src="https://img.shields.io/badge/Webpack-23cfcf?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
 
 <h3 align="center" >Software Skills:</h3>
-
+<p align="center">
 <a><img src="https://img.shields.io/badge/Discord-23cfcf?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 <a><img src="https://img.shields.io/badge/Google%20Meet-23cfcf?style=for-the-badge&logo=google-meet&logoColor=00897B"/></a>
 <a><img src="https://img.shields.io/badge/mac%20os-23cfcf?style=for-the-badge&logo=apple&logoColor=black"/></a>
