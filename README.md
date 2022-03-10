@@ -38,5 +38,5 @@
 
 <h3 align="center" >Coding stats:</h3>
 
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=wowgr8&show_icons=true&theme=tokyonight" />
+<img align="middle" height="170px" src="https://github-readme-stats.vercel.app/api?username=wowgr8&show_icons=true&theme=tokyonight" />
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wowgr8&layout=compact&theme=tokyonight" /><br>
